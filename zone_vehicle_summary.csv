@@ -1,0 +1,16 @@
+zone,vehicle_type,total_trips,success_rate,avg_delay,avg_speed
+Downtown,Bike,605,86.28,4.9,14.45
+Downtown,Car,610,84.43,5.03,15.77
+Downtown,Van,799,84.11,5.35,14.76
+East,Car,581,85.54,5.11,14.37
+East,Bike,601,85.52,4.96,15.58
+East,Van,753,83.13,5.2,14.88
+North,Car,578,86.51,5.44,15.28
+North,Van,843,83.51,5.05,14.69
+North,Bike,600,82.83,5.03,14.9
+South,Car,607,87.15,5.01,15.97
+South,Bike,607,85.83,4.88,14.55
+South,Van,833,83.07,5.23,14.91
+West,Car,573,86.74,5.25,14.57
+West,Bike,582,85.74,5.06,14.38
+West,Van,828,85.63,4.99,14.68
